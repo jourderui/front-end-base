@@ -27,3 +27,8 @@ https://github.com/lafikl/RWDPerf
 
 Chromium command line switches
 http://peter.sh/experiments/chromium-command-line-switches/
+
+VARIOUS EXAMPLES LINKS
+_______________________________________________________
+HEADER OPACITY
+http://davidwalsh.name/persistent-header-opacity
