@@ -35,3 +35,6 @@ http://davidwalsh.name/persistent-header-opacity
 
 20 BEST CSS/JS/OTHER libs...
 http://www.cssdesignawards.com/articles/20-best-css-js-other-experiments-of-2014/160/
+
+ANGULAR.JS
+http://ify.io/lazy-loading-in-angularjs/
