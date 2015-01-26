@@ -1,47 +1,49 @@
 front-end-base
 ==============
-
-Basic summary of front-end technologies with some examples
-_______________________________________________________
-
-./ Dot Files with a lot of instructions
+<br>
+Basic summary of front-end technologies with some examples<br>
+_______________________________________________________<br>
+<br>
+./ Dot Files with a lot of instructions<br>
 http://dotfiles.github.io/
-
-Web Starter Kit
+<br>
+Web Starter Kit<br>
 https://developers.google.com/web/starter-kit/
-
-Web Fundamentals
+<br>
+Web Fundamentals<br>
 https://developers.google.com/web/fundamentals/
-
-Fundamentals of Mobile Web Development
+<br>
+Fundamentals of Mobile Web Development<br>
 http://updates.html5rocks.com/2014/12/fundamental-of-web-dev
-
-More than a live-reload server, built for efficient frontend development
+<br>
+More than a live-reload server, built for efficient frontend development<br>
 https://github.com/leeluolee/puer
-
-Share the local website on web and test it on real devices
+<br>
+Share the local website on web and test it on real devices<br>
 https://meetfinch.com/
-
-Performance testing tool for Responsive web designs.
+<br>
+Performance testing tool for Responsive web designs.<br>
 https://github.com/lafikl/RWDPerf
-
-Chromium command line switches
+<br>
+Chromium command line switches<br>
 http://peter.sh/experiments/chromium-command-line-switches/
-
-ANIMATION
+<br>
+ANIMATION<br>
 https://greensock.com/get-started-js
+<br>
+VARIOUS EXAMPLES LINKS<br>
+_______________________________________________________<br>
 
-VARIOUS EXAMPLES LINKS
-_______________________________________________________
-HEADER OPACITY
+HEADER OPACITY<br>
 http://davidwalsh.name/persistent-header-opacity
-
-20 BEST CSS/JS/OTHER libs...
+<br>
+20 BEST CSS/JS/OTHER libs...<br>
 http://www.cssdesignawards.com/articles/20-best-css-js-other-experiments-of-2014/160/
+<br>
 
-ANGULAR.JS
-http://ify.io/lazy-loading-in-angularjs/
-http://onehungrymind.com/build-sweet-photo-slider-angularjs-animate/
-http://www.toptal.com/angular-js/a-step-by-step-guide-to-your-first-angularjs-app
-https://thinkster.io/angulartutorial/mean-stack-tutorial/
+ANGULAR.JS<br>
+http://ify.io/lazy-loading-in-angularjs/<br>
+http://onehungrymind.com/build-sweet-photo-slider-angularjs-animate/<br>
+http://www.toptal.com/angular-js/a-step-by-step-guide-to-your-first-angularjs-app<br>
+https://thinkster.io/angulartutorial/mean-stack-tutorial/<br>
 
