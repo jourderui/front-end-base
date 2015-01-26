@@ -31,9 +31,10 @@ http://peter.sh/experiments/chromium-command-line-switches/
 ANIMATION<br>
 https://greensock.com/get-started-js
 <br>
+<br>
 VARIOUS EXAMPLES LINKS<br>
-_______________________________________________________<br>
-
+_______________________________________________________
+<br>
 HEADER OPACITY<br>
 http://davidwalsh.name/persistent-header-opacity
 <br>
@@ -46,4 +47,8 @@ http://ify.io/lazy-loading-in-angularjs/<br>
 http://onehungrymind.com/build-sweet-photo-slider-angularjs-animate/<br>
 http://www.toptal.com/angular-js/a-step-by-step-guide-to-your-first-angularjs-app<br>
 https://thinkster.io/angulartutorial/mean-stack-tutorial/<br>
+
+jQuery<br>
+http://codegeekz.com/creating-a-custom-basic-slider/
+<br>
 
