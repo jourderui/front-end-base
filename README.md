@@ -52,3 +52,6 @@ jQuery<br>
 http://codegeekz.com/creating-a-custom-basic-slider/
 <br>
 
+REACT.js<br>
+http://codegeekz.com/react-js-tutorial/
+
