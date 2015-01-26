@@ -28,6 +28,9 @@ https://github.com/lafikl/RWDPerf
 Chromium command line switches
 http://peter.sh/experiments/chromium-command-line-switches/
 
+ANIMATION
+https://greensock.com/get-started-js
+
 VARIOUS EXAMPLES LINKS
 _______________________________________________________
 HEADER OPACITY
@@ -38,3 +41,7 @@ http://www.cssdesignawards.com/articles/20-best-css-js-other-experiments-of-2014
 
 ANGULAR.JS
 http://ify.io/lazy-loading-in-angularjs/
+http://onehungrymind.com/build-sweet-photo-slider-angularjs-animate/
+http://www.toptal.com/angular-js/a-step-by-step-guide-to-your-first-angularjs-app
+https://thinkster.io/angulartutorial/mean-stack-tutorial/
+
