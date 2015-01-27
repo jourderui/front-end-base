@@ -50,6 +50,7 @@ https://thinkster.io/angulartutorial/mean-stack-tutorial/<br>
 
 BACKBONE<br>
 http://mikefowler.me/<br>
+https://github.com/mikefowler/backbone-with-es6<br>
 <br>
 
 jQuery<br>
