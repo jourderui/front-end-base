@@ -55,3 +55,8 @@ http://codegeekz.com/creating-a-custom-basic-slider/
 REACT.js<br>
 http://codegeekz.com/react-js-tutorial/
 
+SCRIPTS<br>
+============================================================<br>
+UPDATE ALL GEMS<br>
+gem update `gem list | cut -d ' ' -f 1` 
+
