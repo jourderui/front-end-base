@@ -42,6 +42,9 @@ http://davidwalsh.name/persistent-header-opacity
 http://www.cssdesignawards.com/articles/20-best-css-js-other-experiments-of-2014/160/
 <br>
 
+RIOT.JS<br>
+https://github.com/muut/riotjs<br>
+
 ANGULAR.JS<br>
 http://ify.io/lazy-loading-in-angularjs/<br>
 http://onehungrymind.com/build-sweet-photo-slider-angularjs-animate/<br>
