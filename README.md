@@ -48,6 +48,10 @@ http://onehungrymind.com/build-sweet-photo-slider-angularjs-animate/<br>
 http://www.toptal.com/angular-js/a-step-by-step-guide-to-your-first-angularjs-app<br>
 https://thinkster.io/angulartutorial/mean-stack-tutorial/<br>
 
+BACKBONE<br>
+http://mikefowler.me/<br>
+<br>
+
 jQuery<br>
 http://codegeekz.com/creating-a-custom-basic-slider/
 <br>
