@@ -66,6 +66,10 @@ http://codegeekz.com/creating-a-custom-basic-slider/
 REACT.js<br>
 http://codegeekz.com/react-js-tutorial/
 
+COMPASS<br>
+http://themestent.github.io/retina-icon-sprites/<br>
+<br>
+
 SCRIPTS<br>
 ============================================================<br>
 UPDATE ALL GEMS<br>
