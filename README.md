@@ -53,10 +53,10 @@ http://ify.io/lazy-loading-in-angularjs/<br>
 http://onehungrymind.com/build-sweet-photo-slider-angularjs-animate/<br>
 http://www.toptal.com/angular-js/a-step-by-step-guide-to-your-first-angularjs-app<br>
 https://thinkster.io/angulartutorial/mean-stack-tutorial/<br>
-https://angularjs.org/
-https://egghead.io/technologies/angularjs
-https://egghead.io/lessons/angularjs-sharing-data-between-controllers
-http://www.bennadel.com/blog/tags/6-javascript-dhtml-blog-entries.htm
+https://angularjs.org/<br>
+https://egghead.io/technologies/angularjs<br>
+https://egghead.io/lessons/angularjs-sharing-data-between-controllers<br>
+[http://www.bennadel.com/blog/tags/6-javascript-dhtml-blog-entries.htm]<br>
 
 BACKBONE<br>
 http://mikefowler.me/<br>
