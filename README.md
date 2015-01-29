@@ -56,6 +56,7 @@ https://thinkster.io/angulartutorial/mean-stack-tutorial/<br>
 https://angularjs.org/
 https://egghead.io/technologies/angularjs
 https://egghead.io/lessons/angularjs-sharing-data-between-controllers
+http://www.bennadel.com/blog/tags/6-javascript-dhtml-blog-entries.htm
 
 BACKBONE<br>
 http://mikefowler.me/<br>
