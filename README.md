@@ -54,6 +54,8 @@ http://onehungrymind.com/build-sweet-photo-slider-angularjs-animate/<br>
 http://www.toptal.com/angular-js/a-step-by-step-guide-to-your-first-angularjs-app<br>
 https://thinkster.io/angulartutorial/mean-stack-tutorial/<br>
 https://angularjs.org/
+https://egghead.io/technologies/angularjs
+https://egghead.io/lessons/angularjs-sharing-data-between-controllers
 
 BACKBONE<br>
 http://mikefowler.me/<br>
