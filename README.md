@@ -44,6 +44,8 @@ http://www.cssdesignawards.com/articles/20-best-css-js-other-experiments-of-2014
 DATA DRIVEN APPS<br>
 http://d3js.org/
 <br>
+SVG<br>
+http://css-tricks.com/using-svg/<br>
 
 RIOT.JS<br>
 https://github.com/muut/riotjs<br>
@@ -78,4 +80,6 @@ SCRIPTS<br>
 ============================================================<br>
 UPDATE ALL GEMS<br>
 gem update `gem list | cut -d ' ' -f 1` 
+
+
 
