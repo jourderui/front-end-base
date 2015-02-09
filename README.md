@@ -84,3 +84,6 @@ gem update `gem list | cut -d ' ' -f 1`
 
 LARAVEL <br>
 https://medium.com/laravel-4/laravel-4-real-time-chat-eaa550829538<br>
+
+How to upload a file using jQuery [PHP] <br>
+http://runnable.com/UZKDAYo3XEw2AACX/how-to-upload-a-file-using-jquery-for-php<br>
