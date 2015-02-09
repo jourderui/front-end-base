@@ -4,6 +4,9 @@ front-end-base
 Basic summary of front-end technologies with some examples<br>
 _______________________________________________________<br>
 <br>
+ADVANCED JAVASSCRIPT<br>
+http://ejohn.org/apps/learn/<br>
+
 ./ Dot Files with a lot of instructions<br>
 http://dotfiles.github.io/
 <br>
