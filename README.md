@@ -82,4 +82,5 @@ UPDATE ALL GEMS<br>
 gem update `gem list | cut -d ' ' -f 1` 
 
 
-
+LARAVEL <br>
+https://medium.com/laravel-4/laravel-4-real-time-chat-eaa550829538<br>
