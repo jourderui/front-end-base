@@ -81,9 +81,13 @@ SCRIPTS<br>
 UPDATE ALL GEMS<br>
 gem update `gem list | cut -d ' ' -f 1` 
 
+PHP
 
 LARAVEL <br>
 https://medium.com/laravel-4/laravel-4-real-time-chat-eaa550829538<br>
+
+PHP SCripTS<br>
+http://codecanyon.net/popular_item/by_category?category=php-scripts&ref=tutshub&utm_source=tutsplus&utm_medium=footer&utm_campaign=tutscode&ref=tutshub&clickthrough_id=359862364&redirect_back=true<br>
 
 How to upload a file using jQuery [PHP] <br>
 http://runnable.com/UZKDAYo3XEw2AACX/how-to-upload-a-file-using-jquery-for-php<br>
