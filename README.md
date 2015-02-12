@@ -35,6 +35,8 @@ ANIMATION<br>
 https://greensock.com/get-started-js
 http://codepen.io/bommell/pen/qEPdLK
 <br>
+CSS BACKGROUNDS<br>
+http://idojo.co/blog/css3-for-background-textures/<br>
 <br>
 VARIOUS EXAMPLES LINKS<br>
 _______________________________________________________
