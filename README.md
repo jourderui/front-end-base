@@ -67,6 +67,10 @@ https://angularjs.org/<br>
 https://egghead.io/technologies/angularjs<br>
 https://egghead.io/lessons/angularjs-sharing-data-between-controllers<br>
 [http://www.bennadel.com/blog/tags/6-javascript-dhtml-blog-entries.htm]<br>
+[http://www.cheatography.com/proloser/cheat-sheets/angularjs/]<br>
+[http://jimhoskins.com/2012/12/14/nested-scopes-in-angularjs.html]<br>
+[http://dailyjs.com/2013/05/23/angularjs-injection/] <br>
+
 
 BACKBONE<br>
 http://mikefowler.me/<br>
