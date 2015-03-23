@@ -9,6 +9,9 @@ https://html.spec.whatwg.org/<br>
 LIBRARIES<br>
 http://libraries.io/<br>
 
+RESPONSIVE <br>
+http://responsivedesign.is/<br>
+
 CSS TOOLS<br>
 http://codegeekz.com/must-have-css-tools-for-designers/<br>
 <br>
