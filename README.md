@@ -12,6 +12,9 @@ http://libraries.io/<br>
 RESPONSIVE <br>
 http://responsivedesign.is/<br>
 
+LOCAL STORAGE<br>
+http://www.jstorage.info/<br>
+
 CSS TOOLS<br>
 http://codegeekz.com/must-have-css-tools-for-designers/<br>
 <br>
