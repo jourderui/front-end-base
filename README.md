@@ -6,6 +6,9 @@ _______________________________________________________<br>
 HTML<br>
 https://html.spec.whatwg.org/<br>
 
+HACK<br>
+http://www.latesthackingnews.com/2015/02/21/cracking-wpawpa2-psk-encryption/<br>
+
 DESIGN AND MOCKUP <br>
 http://www.startitup.sk/article/detail/ar1851-40-free-nastrojov-ktore-by-mal-poznat-kazdy-grafik-ci-dizajner<br>
 
