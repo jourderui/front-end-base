@@ -6,6 +6,9 @@ _______________________________________________________<br>
 HTML<br>
 https://html.spec.whatwg.org/<br>
 
+DESIGN AND MOCKUP <br>
+http://www.startitup.sk/article/detail/ar1851-40-free-nastrojov-ktore-by-mal-poznat-kazdy-grafik-ci-dizajner<br>
+
 LIBRARIES<br>
 http://libraries.io/<br>
 
