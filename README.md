@@ -8,6 +8,7 @@ https://html.spec.whatwg.org/<br>
 http://rmurphey.com/blog/2015/03/23/a-baseline-for-front-end-developers-2015/?utm_source=javascriptweekly&utm_medium=email
 HACK<br>
 http://www.latesthackingnews.com/2015/02/21/cracking-wpawpa2-psk-encryption/<br>
+http://www.securitytube.net/video/7785<br>
 
 DESIGN AND MOCKUP <br>
 http://www.startitup.sk/article/detail/ar1851-40-free-nastrojov-ktore-by-mal-poznat-kazdy-grafik-ci-dizajner<br>
