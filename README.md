@@ -16,6 +16,9 @@ https://news.ycombinator.com/newest<br>
 DESIGN AND MOCKUP <br>
 http://www.startitup.sk/article/detail/ar1851-40-free-nastrojov-ktore-by-mal-poznat-kazdy-grafik-ci-dizajner<br>
 
+HTTP REQUEST TEST<br>
+https://mockbin.com/<br>
+<br>
 IE <br>
 http://blogs.msdn.com/b/ie/archive/2015/04/02/introducing-the-ie-diagnostics-adapter-for-third-party-developer-tools.aspx<br>
 LIBRARIES<br>
