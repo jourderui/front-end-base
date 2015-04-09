@@ -16,6 +16,8 @@ http://www.latesthackingnews.com/2015/02/21/cracking-wpawpa2-psk-encryption/<br>
 http://www.securitytube.net/video/7785<br>
 http://ha.ckers.org/slowloris/<br>
 https://news.ycombinator.com/newest<br>
+http://blog.risingstack.com/<br>
+<br>
 
 DESIGN AND MOCKUP <br>
 http://www.startitup.sk/article/detail/ar1851-40-free-nastrojov-ktore-by-mal-poznat-kazdy-grafik-ci-dizajner<br>
