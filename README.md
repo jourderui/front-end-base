@@ -5,7 +5,8 @@ Basic summary of front-end technologies with some examples<br>
 _______________________________________________________<br>
 HTML<br>
 https://html.spec.whatwg.org/<br>
-http://rmurphey.com/blog/2015/03/23/a-baseline-for-front-end-developers-2015/?utm_source=javascriptweekly&utm_medium=email
+http://rmurphey.com/blog/2015/03/23/a-baseline-for-front-end-developers-2015/<br>
+https://samdutton.wordpress.com/2015/04/02/high-performance-html/<br>
 <br>
 HTML5 GAME ENGINE<br>
 https://github.com/BabylonJS/Babylon.js
