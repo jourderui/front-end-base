@@ -43,6 +43,7 @@ http://codegeekz.com/must-have-css-tools-for-designers/<br>
 <br>
 ADVANCED JAVASSCRIPT<br>
 http://ejohn.org/apps/learn/<br>
+https://www.promisejs.org/patterns/<br>
 
 ./ Dot Files with a lot of instructions<br>
 http://dotfiles.github.io/
