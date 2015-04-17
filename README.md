@@ -91,9 +91,6 @@ http://d3js.org/
 SVG<br>
 http://css-tricks.com/using-svg/<br>
 
-RIOT.JS<br>
-https://github.com/muut/riotjs<br>
-
 ANGULAR.JS<br>
 http://ify.io/lazy-loading-in-angularjs/<br>
 http://onehungrymind.com/build-sweet-photo-slider-angularjs-animate/<br>
@@ -120,7 +117,11 @@ http://jsfiddle.net/jW68r/
 <br>
 
 REACT.js<br>
-http://codegeekz.com/react-js-tutorial/
+http://codegeekz.com/react-js-tutorial/<br>
+http://maketea.co.uk/2014/03/05/building-robust-web-apps-with-react-part-1.html<br>
+<br>
+RIOT.JS<br>
+https://github.com/muut/riotjs<br>
 
 COMPASS<br>
 http://themestent.github.io/retina-icon-sprites/<br>
