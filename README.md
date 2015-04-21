@@ -105,6 +105,7 @@ https://egghead.io/lessons/angularjs-sharing-data-between-controllers<br>
 [http://jimhoskins.com/2012/12/14/nested-scopes-in-angularjs.html]<br>
 [http://dailyjs.com/2013/05/23/angularjs-injection/] <br>
 http://andyshora.com/promises-angularjs-explained-as-cartoon.html<br>
+http://joelhooks.com/blog/2014/02/11/lets-make-full-ass-angularjs-directives/<br>
 
 
 BACKBONE<br>
