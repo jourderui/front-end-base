@@ -145,3 +145,6 @@ http://codecanyon.net/popular_item/by_category?category=php-scripts&ref=tutshub&
 
 How to upload a file using jQuery [PHP] <br>
 http://runnable.com/UZKDAYo3XEw2AACX/how-to-upload-a-file-using-jquery-for-php<br>
+
+WORDPRESS <br>
+http://wpverse.com/<br>
