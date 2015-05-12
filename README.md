@@ -93,6 +93,7 @@ SVG<br>
 http://css-tricks.com/using-svg/<br>
 
 ANGULAR.JS<br>
+http://victorsavkin.com/post/118372404541/the-core-concepts-of-angular-2?utm_source=javascriptweekly&utm_medium=email<br>
 http://ify.io/lazy-loading-in-angularjs/<br>
 http://onehungrymind.com/build-sweet-photo-slider-angularjs-animate/<br>
 http://www.toptal.com/angular-js/a-step-by-step-guide-to-your-first-angularjs-app<br>
