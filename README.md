@@ -122,6 +122,7 @@ https://github.com/mikefowler/backbone-with-es6<br>
 jQuery<br>
 http://codegeekz.com/creating-a-custom-basic-slider/
 http://jsfiddle.net/jW68r/
+http://jquerymy.com/?utm_source=javascriptweekly&utm_medium=email#CW-demos
 <br>
 
 REACT.js<br>
