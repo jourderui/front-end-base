@@ -7,6 +7,10 @@ TRANSPILERS ES6/COFEESCRIPT<br>
 https://www.youtube.com/watch?v=DspYurD75Ns<br>
 https://babeljs.io/docs/learn-es6/
 
+ART<br>
+http://abandonedart.org/<br>
+http://www.creativeapplications.net/processing/generative-art-in-html5-processing-javascript-tutorial/<br>
+http://hackingforartists.com/<br>
 
 HTML<br>
 https://html.spec.whatwg.org/<br>
@@ -50,6 +54,8 @@ http://codegeekz.com/must-have-css-tools-for-designers/<br>
 ADVANCED JAVASSCRIPT<br>
 http://ejohn.org/apps/learn/<br>
 https://www.promisejs.org/patterns/<br>
+http://www.sitepoint.com/multi-threading-javascript/
+http://julian.com/research/velocity/#duration
 
 ./ Dot Files with a lot of instructions<br>
 http://dotfiles.github.io/
@@ -79,9 +85,10 @@ ANIMATION<br>
 https://greensock.com/get-started-js
 http://codepen.io/bommell/pen/qEPdLK
 <br>
-CSS BACKGROUNDS<br>
+CSS<br>
 http://idojo.co/blog/css3-for-background-textures/<br>
-<br>
+https://css-tricks.com/forums/topic/viewport-height-for-full-screen-div/<br>
+
 VARIOUS EXAMPLES LINKS<br>
 _______________________________________________________
 <br>
